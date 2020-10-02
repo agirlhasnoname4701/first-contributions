@@ -22,6 +22,7 @@
 - [Abdulkarim] (https://https://github.com/kromy1994)
 -[Huda Ali](https://github.com/hali0008)
 - [Kalpit Pant](https://github.com/kalpitpant)
+- [Shreya](https://github.com/agirlhasnoname4701)
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Joshua Sani](https://github.com/joshysmart)
 - [Mehryar](https://github.com/mehryar-m)
